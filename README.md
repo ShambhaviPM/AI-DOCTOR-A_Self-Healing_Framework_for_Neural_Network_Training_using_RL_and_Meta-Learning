@@ -1,5 +1,3 @@
-# AI-DOCTOR-A_Self-Healing_Framework_for_Neural_Network_Training_using_RL_and_Meta-Learning
-**AI Doctor: Self-Healing Neural Network System**
 
 **1. Overview**
 
