@@ -1,5 +1,6 @@
 # AI-DOCTOR-A_Self-Healing_Framework_for_Neural_Network_Training_using_RL_and_Meta-Learning
 **AI Doctor: Self-Healing Neural Network System**
+
 **1. Overview**
 
 AI Doctor is a self-healing training framework for deep learning models.
@@ -92,34 +93,7 @@ Training stability plots
 
 Multi-dataset testing (MNIST and CIFAR-10)
 
-**3. System Architecture**
-                             ┌──────────────────────────┐
-                             │    Monitoring Module     │
-                             │ (loss, gradients, activ.)│
-                             └───────────────┬──────────┘
-                                             │
-                                             ▼
-                             ┌──────────────────────────┐
-                             │ Failure Detection Trigger│
-                             └───────────────┬──────────┘
-                                             │
-                                             ▼
-                             ┌──────────────────────────┐
-                             │   RL Healing Agent (PPO) │
-                             └───────────────┬──────────┘
-                                             │
-                                             ▼
-                             ┌──────────────────────────┐
-                             │  Healing Action Executor │
-                             └───────────────┬──────────┘
-                                             │
-                                             ▼
-                                  ┌──────────────────┐
-                                  │   Patient DNN    │
-                                  └──────────────────┘
-
-
-**4. Project Workflow** (5-Week Plan)
+**3. Project Workflow** (5-Week Plan)
 **Phase 1 – Baseline Setup**
 
 Research literature
