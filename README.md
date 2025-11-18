@@ -73,7 +73,7 @@ Copy code
 
 ---
 
-# **3. Project Workflow (5-Week Plan)**
+# **3. Project Workflow**
 
 ## **Phase 1 – Baseline Setup**
 - Literature review  
